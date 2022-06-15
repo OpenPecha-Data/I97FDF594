@@ -1,0 +1,25 @@
+id: I97FDF594
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:13:09.892044'
+last_modified: '2022-06-15T20:13:09.892056'
+parser: null
+source_metadata:
+  title: Śrī Siṃha
+  language: en
+  description: 'Texts by and about Śrī Siṃha (shrI sing+ha/shrI seng+ha), one of the
+    early masters of the Dzogchen lineage:'
+  volume:
+    fA232:
+      title: Unravelling Mantra’s Meaning in The Heart of Wisdom Sūtra
+      base_file: fA232.txt
+      order: 1
+      parent: Commentaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
